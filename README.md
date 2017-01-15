@@ -2,6 +2,8 @@
 
 Mr Donald J Trump, needs your help because he doesn't know how many hashtags are in his awesome tweets!
 
+![alt tag](./screenshot.png)
+
 ```javascript
 
 var tweet = 'Make Scotland great again! #notmyhair #russianfanboy';
